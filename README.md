@@ -8,3 +8,5 @@ ycMapping_dataProcess.R contains code for formatting of genotype and phenotype d
 graphConstruction.R contains code for the multivariate QTL mapping algorithm used to identify yield component QTL correcting for plant growth phenotypes, while graphConstructionFunctions.R contain the functions called by graphConstruction.R.
 
 graphConstruction.sh contains code for running the mapping script on an HPC using the Slurm job scheduler.
+
+univariate_QTLMapping.R contains example code for separate univariate analysis that might be performed
